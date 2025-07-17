@@ -9,13 +9,17 @@
 - Python
 - библиотеки (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
 - Power BI, Tableau
+- Excel, VBA
+- Markdown
 - Git, Docker
-
-Полное резюме [здесь](https://github.com/Arrinna/arrinna/blob/main/CV_Arrinna.md)
 
 🗣 English (C1), Deutsch (B1)
 
+Полное резюме [здесь](https://github.com/Arrinna/arrinna/blob/main/CV_Arrinna.md)
+
+
 🏃🏻‍♀🏄🏻‍♀🏕🥾🎾♻
+
 
 <!--
 **Arrinna/arrinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
