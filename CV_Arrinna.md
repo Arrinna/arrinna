@@ -1,5 +1,5 @@
 # АРИНА ДОНСКИХ 
-Санкт-Петербург   | 📧 arina.donskikh@gmail.com | Telegram: @arrinna  
+Санкт-Петербург   | 📧 arina.donskikh@gmail.com | Telegram: [@arrinna](https://t.me/arrinna)  
 
 ---
 
