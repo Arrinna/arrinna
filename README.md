@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is Arina. I'm a Data Analyst.
 
 <!--
 **Arrinna/arrinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
