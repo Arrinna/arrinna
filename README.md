@@ -7,7 +7,7 @@
 👩🏻‍💻
 - SQL
 - Python
-- библиотеки (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
+- библиотеки (Pandas, NumPy, Matplotlib, Seaborn, sklearn)
 - Power BI, Tableau
 - Excel, VBA
 - Markdown
